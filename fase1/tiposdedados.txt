@@ -1,0 +1,41 @@
+Quantidade de vendedores da loja=integer
+
+Nome da rua, com número e complemento=string
+
+Preço do etanol comum=float
+
+Estado de iluminação de uma lâmpada=boolean
+
+CEP do endereço, com hífen=string
+
+Mostrador com um dígito dentro do elevador, indicando o andar do prédio onde ele está passando=integer
+
+Led que indica o pressionamento do botão do elevador=boolean
+
+Data de aniversário do professor=date
+
+Peso do prato na balança do restaurante=integer
+
+Número de bois no curral da fazenda=integer
+
+Dia completo da páscoa nesse ano=date
+
+Quantidade de laranjas na caixa=integer
+
+Uma vogal minúscula=char
+
+Título de um livro=string
+
+Limite do cartão de crédito=float
+
+Horário de transmissão do jogo=date
+
+Altura de um prédio=integer
+
+Páginas do caderno=integer
+
+Sala de reunião está disponível (ou ocupada)=boolean
+
+Alternativas do enunciado da questão de múltipla escolha=boolean
+
+

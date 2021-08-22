@@ -1,0 +1,7 @@
+integer vendedor;
+string endereco;
+float etanol;
+boolean lampada;
+string cep;
+string livro;
+date nascimento;
